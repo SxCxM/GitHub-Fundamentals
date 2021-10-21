@@ -11,3 +11,5 @@ Here is a growing colletion of resources and helpful commands to know when wokin
 
 - [git commit](./Commands/Commit.md)
 
+- [git remote](./Commands/Remote.md)
+
