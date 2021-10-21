@@ -15,3 +15,9 @@ Here is a growing colletion of resources and helpful commands to know when wokin
 
 - [git push](./Commands/Push.md)
 
+- [git pull](./Commands/Pull.md)
+
+- [git status](./Commands/Status.md)
+
+- [git clone](./Commands/Clone.md)
+
