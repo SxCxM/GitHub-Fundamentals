@@ -8,3 +8,6 @@ Here is a growing colletion of resources and helpful commands to know when wokin
 - [git config](./Commands/Config.md)
 
 - [git init](./Commands/Init.md)
+
+- [git commit](./Commands/Commit.md)
+
